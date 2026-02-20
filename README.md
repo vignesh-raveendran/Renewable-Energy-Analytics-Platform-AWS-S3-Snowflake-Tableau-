@@ -41,6 +41,10 @@ Tableau Dashboard
 Tableau Cloud Deployment
 ```
 
+![Recording2026-02-20120403-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/603bd124-030c-48a6-bbfd-ee6c5ac6992c)
+
+![EnergyConsumptionAnalysisusingAWSSnowflakeTableau-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/15a4aa77-d6a7-4852-914a-d355a8b85a69)
+
 ---
 
 # ⭐ STAR Methodology
@@ -284,11 +288,10 @@ Additional Analytical Metrics:
 
 # 🖼 Dashboard Preview
 
-_Add your dashboard screenshot here_
 
-```
-![Energy Dashboard](images/energy_dashboard.png)
-```
+<img width="1874" height="795" alt="Screenshot 2026-02-20 115911" src="https://github.com/user-attachments/assets/7c3293ef-d3e6-46d0-8861-2d049fe3b54e" />
+
+
 
 ---
 
@@ -304,8 +307,8 @@ _Add your dashboard screenshot here_
 
 # 👨‍💻 Author
 
-**[Your Name]**  
-Data Analyst | Cloud Data Engineer | Snowflake Developer  
+**[Vignesh Raveendran]**  
+Data Engineer | Data Analyst
 
 🔗 LinkedIn  
 🔗 Portfolio  
