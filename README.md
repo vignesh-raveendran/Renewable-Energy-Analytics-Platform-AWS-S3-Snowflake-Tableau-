@@ -307,7 +307,7 @@ Additional Analytical Metrics:
 
 # 👨‍💻 Author
 
-**[Vignesh Raveendran]**  
+**Vignesh Raveendran**  
 Data Engineer | Data Analyst
 
 🔗 LinkedIn  
